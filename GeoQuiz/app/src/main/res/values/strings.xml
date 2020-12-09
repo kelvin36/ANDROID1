@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="pregunta_1">La capital de Ecuador es Caracas?</string>
+    <string name="pregunta_2">Piloso trabaja en MC?</string>
+    <string name="pregunta_3">Matamoros tiene ojeras y parece un mapache?</string>
+    <string name="pregunta_4">El dia tiene 24 horas?</string>
+    <string name="pregunta_5">Bolivia es mas grande que Brasil?</string>
+
+    <string name="verdadero_btn">Verdadero</string>
+    <string name="falso_btn">Falso</string>
+    <string name="siguiente_btn">Siguiente</string>
+
+    <string name="correcto">Correcto!!</string>
+    <string name="incorrecto">Incorrecto!!</string>
+</resources>
